@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3da367-a4db-4eb3-ac5f-2bb268f28e5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YUEgOBhHLnnMT0w7GTkbLnvBVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ak040\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3da367-a4db-4eb3-ac5f-2bb268f28e5e" name="Default Changelist" comment="" />
+      <created>1582988882996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582988882996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1583054778152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1583054778152" />
+    <state x="1246" y="208" width="398" height="623" key="svn.repositoryBrowser" timestamp="1583054679966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="208" width="398" height="623" key="svn.repositoryBrowser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1583054679966" />
+  </component>
+</project>
